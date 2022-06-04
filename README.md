@@ -3,7 +3,7 @@
 &bull; 💻 Software developer&nbsp;&nbsp;&nbsp;2021 &mdash; now    
 &bull; 🐈 Cat owner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012 &mdash; now    
 
-&bull; 🍅 Pomidor enjoyer
+&bull; ⌨️ Average blue switch keyboard user
 
 <!---
 tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
