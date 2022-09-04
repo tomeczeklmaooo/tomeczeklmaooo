@@ -3,13 +3,13 @@ tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｄｅｖ</h2>
-<b>2nd Grade IT Student, passionate software developer and proud cat owner.</b>
+<b>2nd Grade IT Student, creator of useless things and proud cat owner.</b>
 
 <img width="40%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/175824310-2d3a8521-4b61-4438-ba31-952a2fabcaf5.svg">
 <p>
   
   - :computer: Studying IT at <a href="https://zst-tp.pl/">&#128279; Zespół Szkół Technicznych Tarnowo Podgórne</a>.
-  - :floppy_disk: Currently working on multiple projects.
+  - :floppy_disk: Currently creating useless programs.
   - :book: Learning C++ and x86 Assembly.
 </p>
 <div align="left">
