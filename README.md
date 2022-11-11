@@ -12,6 +12,19 @@ You can click the Preview link to take a look at your changes.
   - :floppy_disk: Currently creating useless programs.
   - :book: Learning C++ and x86 Assembly.
 </p>
+
+<b>Current projects:</b>
+  - :scroll: <i>Toaster Script Loader (main focus)</i>   
+    Toaster Script Loader will be a terminal-based script manager with Terminal UI, script execution scheduler, custom script executor and more.    
+    <a href="https://github.com/tomeczeklmaodev/toasterscriptloader/">&#128279; Source code</a>
+  - :hibiscus: <i>Fuchsia (focus on design)</i>   
+    Fuchsia will be a terminal tool. That's all I know so far.   
+    <a href="https://github.com/tomeczeklmaodev/fuchsia/">&#128279; Source code</a>
+
+<b>Contact:</b>
+  - :email: E-mail: tomeczeklmao@proton.me
+  - :speech_balloon: Discord: tomeczeklmaooo#0001
+
 <div align="left">
 <a href="https://github.com/tomeczeklmaodev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
