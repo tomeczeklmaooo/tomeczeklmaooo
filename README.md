@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <b>Contact:</b>
   - :email: E-mail: tomeczeklmao@proton.me
-  - :speech_balloon: Discord: tomeczeklmaooo#0001
+  - :speech_balloon: Discord: tomeczeklmaooo#1599
 
 <div align="left">
 <a href="https://github.com/tomeczeklmaodev" target="_blank">
