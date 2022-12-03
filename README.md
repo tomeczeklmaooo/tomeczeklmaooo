@@ -10,15 +10,15 @@ You can click the Preview link to take a look at your changes.
   
   - :computer: Studying IT at <a href="https://zst-tp.pl/">&#128279; Zespół Szkół Technicznych Tarnowo Podgórne</a>.
   - :floppy_disk: Currently creating useless programs.
-  - :book: Learning C++ and x86 Assembly.
+  - :book: Learning C++ and JavaScript.
 </p>
 
 <b>Current projects:</b>
-  - :scroll: <i>Toaster Script Loader (main focus)</i>   
+  - :scroll: <i>Toaster Script Loader (will update at the end of december)</i>   
     Toaster Script Loader will be a terminal-based script manager with Terminal UI, script execution scheduler, custom script executor and more.    
     <a href="https://github.com/tomeczeklmaodev/toasterscriptloader/">&#128279; Source code</a>
-  - :hibiscus: <i>Fuchsia (focus on design)</i>   
-    Fuchsia will be a terminal tool. That's all I know so far.   
+  - :hibiscus: <i>Fuchsia</i>   
+    Fuchsia will be a terminal tool to help set up a new Windows device.   
     <a href="https://github.com/tomeczeklmaodev/fuchsia/">&#128279; Source code</a>
 
 <b>Contact:</b>
