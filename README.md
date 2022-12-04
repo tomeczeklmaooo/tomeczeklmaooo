@@ -12,6 +12,16 @@ You can click the Preview link to take a look at your changes.
   - :floppy_disk: Currently creating useless programs.
   - :book: Learning C++ and JavaScript.
 </p>
+<br>
+
+<b>Skills:</b>
+  - CMD
+  - HTML
+  - CSS
+  - JavaScript (a little bit)
+  - Python (a little bit more than JS)
+  - C/C++
+<br>
 
 <b>Current projects:</b>
   - :scroll: <i>Toaster Script Loader (will update at the end of december)</i>   
@@ -20,6 +30,7 @@ You can click the Preview link to take a look at your changes.
   - :hibiscus: <i>Fuchsia</i>   
     Fuchsia will be a terminal tool to help set up a new Windows device.   
     <a href="https://github.com/tomeczeklmaodev/fuchsia/">&#128279; Source code</a>
+<br>
 
 <b>Contact:</b>
   - :email: E-mail: tomeczeklmao@proton.me
