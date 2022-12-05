@@ -3,7 +3,7 @@ tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｄｅｖ</h2>
-<b>2nd Grade IT Student, creator of useless things, Windows 11 and Microsoft Edge enjoyer.</b>
+<b>2nd Grade IT Student, creator of useless things, Windows 11 Insider and <span title="Yes, I use Microsoft Edge.">Microsoft Edge</span> enjoyer.</b>
 
 <img width="40%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/175824310-2d3a8521-4b61-4438-ba31-952a2fabcaf5.svg">
 <p>
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   - :scroll: <i>Toaster Script Loader (will update at the end of december)</i>   
     Toaster Script Loader will be a terminal-based script manager with Terminal UI, script execution scheduler, custom script executor and more.    
     <a href="https://github.com/tomeczeklmaodev/toasterscriptloader/">&#128279; Source code</a>
-  - :hibiscus: <i>Fuchsia</i>   
+  - :hibiscus: <i>Fuchsia (will update when I'll have some free time)</i>   
     Fuchsia will be a terminal tool to help set up a new Windows device.   
     <a href="https://github.com/tomeczeklmaodev/fuchsia/">&#128279; Source code</a>
 <br>
