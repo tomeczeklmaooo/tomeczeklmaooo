@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <b>Current projects:</b>
-  - :scroll: <i>Toaster Script Loader (will update at the end of december)</i>   
+  - :scroll: <i>Toaster Script Loader (will update sometime in the future)</i>   
     Toaster Script Loader will be a terminal-based script manager with Terminal UI, script execution scheduler, custom script executor and more.    
     <a href="https://github.com/tomeczeklmaodev/toasterscriptloader/">&#128279; Source code</a>
   - :hibiscus: <i>Fuchsia (will update when I'll have some free time)</i>   
