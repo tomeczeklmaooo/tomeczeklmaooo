@@ -4,8 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｄｅｖ</h2>
 <b>2nd Grade IT Student, creator of useless things, Windows 11 Insider and <span title="Yes, I use Microsoft Edge.">Microsoft Edge</span> enjoyer.</b>
-
+<!---
 <img width="30%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/206475907-95d9d74d-a4c5-46e3-9966-e35d23777f58.png">
+--->
+<img title="this is literally me when programming" width="40%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/213781818-be32c14c-9a44-4043-9595-987d10bcada1.jpg">
+
 <p>
   
   - :computer: Studying IT at <a href="https://zst-tp.pl/">&#128279; Zespół Szkół Technicznych Tarnowo Podgórne</a>.
