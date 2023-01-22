@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 <img width="30%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/206475907-95d9d74d-a4c5-46e3-9966-e35d23777f58.png">
 --->
-<img title="this is literally me when programming" width="40%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/213781818-be32c14c-9a44-4043-9595-987d10bcada1.jpg">
+<img title="this is literally me when programming" width="35%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/213781818-be32c14c-9a44-4043-9595-987d10bcada1.jpg">
 
 <p>
   
