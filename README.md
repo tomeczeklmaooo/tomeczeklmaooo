@@ -2,7 +2,7 @@
 tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｄｅｖ</h2>
+<h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｏｏ</h2>
 <b>2nd Grade IT Student, creator of useless things, Windows 11 Insider and <span title="Yes, I use Microsoft Edge.">Microsoft Edge</span> enjoyer.</b>
 <!---
 <img width="30%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/206475907-95d9d74d-a4c5-46e3-9966-e35d23777f58.png">
@@ -29,10 +29,10 @@ You can click the Preview link to take a look at your changes.
 <b>Current projects:</b>
   - :scroll: <i>Toaster Script Loader (will update sometime in the future)</i>   
     Toaster Script Loader will be a terminal-based script manager with Terminal UI, script execution scheduler, custom script executor and more.    
-    <a href="https://github.com/tomeczeklmaodev/toasterscriptloader/">&#128279; Source code</a>
+    <a href="https://github.com/tomeczeklmaooo/toasterscriptloader/">&#128279; Source code</a>
   - :hibiscus: <i>Fuchsia (will update when I'll have some free time)</i>   
     Fuchsia will be a terminal tool to help set up a new Windows device.   
-    <a href="https://github.com/tomeczeklmaodev/fuchsia/">&#128279; Source code</a>
+    <a href="https://github.com/tomeczeklmaooo/fuchsia/">&#128279; Source code</a>
 <br>
 
 <b>Contact:</b>
@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
   - :speech_balloon: Discord: tomeczeklmaooo#1599
 
 <div align="left">
-<a href="https://github.com/tomeczeklmaodev" target="_blank">
+<a href="https://github.com/tomeczeklmaooo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/tomeczeklmaodev" target="_blank">
+<a href="https://twitter.com/tomeczeklmaooo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/tomeczeklmao" target="_blank">
