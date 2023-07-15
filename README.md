@@ -3,7 +3,7 @@ tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｏｏ</h2>
-<b>2nd Grade IT Student, creator of useless things, Windows 11 Insider and <span title="Yes, I use Microsoft Edge.">Microsoft Edge</span> enjoyer.</b>
+<b>2nd Grade IT Student, semi-"professional" CS:GO player.</b>
 <!---
 <img width="30%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/206475907-95d9d74d-a4c5-46e3-9966-e35d23777f58.png">
 --->
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <b>Contact:</b>
   - :email: E-mail: tomeczeklmao@proton.me
-  - :speech_balloon: Discord: tomeczeklmaooo#1599
+  - :speech_balloon: Discord: toaster000_
 
 <div align="left">
 <a href="https://github.com/tomeczeklmaooo" target="_blank">
