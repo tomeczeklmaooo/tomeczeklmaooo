@@ -3,10 +3,7 @@ tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｏｏ</h2>
-<b>3rd Grade IT Student, semi-"professional" Counter-Strike 2 player and a full-time cat enjoyer.</b>
-<!---
-<img width="30%" align="right" alt="github header image" src="https://user-images.githubusercontent.com/82512805/206475907-95d9d74d-a4c5-46e3-9966-e35d23777f58.png">
---->
+<b>3rd Grade IT Student and a full-time cat enjoyer.</b>
 <img title="this cat is just like me fr" width="40%" align="right" alt="github header image" src="https://github.com/tomeczeklmaooo/tomeczeklmaooo/assets/82512805/f7b3b15d-1307-4d17-8a42-d2655b81c21c">
 
 <p>
@@ -23,6 +20,14 @@ You can click the Preview link to take a look at your changes.
   - CSS
   - JavaScript (learning)
   - Bash (learning)
+<br>
+
+<b>PC Specs:</b>
+  - Intel&reg; Core&trade; i5-11600K
+  - Nvidia&reg; GeForce&trade; GTX 1660 Ti
+  - 16GB DDR4 RAM (3200 MHz)
+  - 1.5TB storage
+  - Windows 11 Pro
 <br>
 
 <b>Contact:</b>
