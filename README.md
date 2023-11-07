@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｏｏ</h2>
 <b>3rd Grade IT Student and a full-time cat enjoyer.</b>
-<img title="this cat is just like me fr" width="40%" align="right" alt="github header image" src="https://github.com/tomeczeklmaooo/tomeczeklmaooo/assets/82512805/f7b3b15d-1307-4d17-8a42-d2655b81c21c">
+<img title="this cat is just like me fr" width="40%" align="right" alt="github readme image" src="https://github.com/tomeczeklmaooo/tomeczeklmaooo/assets/82512805/f7b3b15d-1307-4d17-8a42-d2655b81c21c">
 
 <p>
   
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   - Nvidia&reg; GeForce&trade; GTX 1660 Ti
   - 16GB DDR4 RAM (3200 MHz)
   - 1.5TB storage
-  - Windows 11 Pro
+  - Windows 11 Pro + Ubuntu 23.10 Dual-boot
 <br>
 
 <b>Contact:</b>
@@ -35,13 +35,13 @@ You can click the Preview link to take a look at your changes.
   - :speech_balloon: Discord: toaster000_
 
 <div align="left">
-<a href="https://github.com/tomeczeklmaooo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/toastercs" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tomeczeklmao" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+	<a href="https://github.com/tomeczeklmaooo" target="_blank">
+		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://twitter.com/toastercs" target="_blank">
+		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://instagram.com/tomeczeklmao" target="_blank">
+		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+	</a>  
 </div>
