@@ -1,7 +1,3 @@
-<!---
-tomeczeklmaodev/tomeczeklmaodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｏｏ</h2>
 <b>3rd Grade IT Student and a full-time cat enjoyer.</b>
 <img title="this cat is just like me fr" width="40%" align="right" alt="github readme image" src="https://github.com/tomeczeklmaooo/tomeczeklmaooo/assets/82512805/f7b3b15d-1307-4d17-8a42-d2655b81c21c">
@@ -22,9 +18,18 @@ You can click the Preview link to take a look at your changes.
   - Bash (learning)
 <br>
 
+<b>Qualifications:</b>
+  - currently none :)
+<br>
+
+<b>Achievements:</b>
+  - CS:GO Falcon League 3 Champion
+  - Top 100 at Klawiaturowe Wyzwanie XI Juniorzy
+<br>
+
 <b>PC Specs:</b>
   - Intel&reg; Core&trade; i5-11600K
-  - Nvidia&reg; GeForce&trade; GTX 1660 Ti
+  - NVIDIA&reg; GeForce&trade; GTX 1660 Ti
   - 16GB DDR4 RAM (3200 MHz)
   - 1.5TB storage
   - Windows 11 Pro + Ubuntu 23.10 Dual-boot
@@ -33,15 +38,3 @@ You can click the Preview link to take a look at your changes.
 <b>Contact:</b>
   - :email: E-mail: tomeczeklmao@proton.me
   - :speech_balloon: Discord: toaster000_
-
-<div align="left">
-	<a href="https://github.com/tomeczeklmaooo" target="_blank">
-		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://twitter.com/toastercs" target="_blank">
-		<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://instagram.com/tomeczeklmao" target="_blank">
-		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-	</a>  
-</div>
