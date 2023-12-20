@@ -24,7 +24,7 @@
 
 <b>Achievements:</b>
   - CS:GO Falcon League 3 Champion
-  - 84th at Klawiaturowe Wyzwanie XI Juniorzy
+  - 82nd at Klawiaturowe Wyzwanie XI Juniorzy
 <br>
 
 <b>PC Specs:</b>
