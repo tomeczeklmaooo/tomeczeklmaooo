@@ -32,7 +32,7 @@
   - NVIDIA&reg; GeForce&trade; GTX 1660 Ti
   - 16GB DDR4 RAM (3200 MHz)
   - 1.5TB storage
-  - Windows 11 Pro + Ubuntu 23.10 Dual-boot
+  - Windows 11 Pro
 <br>
 
 <b>Contact:</b>
