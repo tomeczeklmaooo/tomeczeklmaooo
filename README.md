@@ -1,5 +1,5 @@
 <h2 style="display:block">ｔｏｍｅｃｚｅｋｌｍａｏｏｏ</h2>
-<b>3rd Grade IT Student and a full-time cat enjoyer.</b>
+<b>4th Grade IT Student and a full-time cat enjoyer.</b>
 <img title="this cat is just like me fr" width="40%" align="right" alt="github readme image" src="https://github.com/tomeczeklmaooo/tomeczeklmaooo/assets/82512805/f7b3b15d-1307-4d17-8a42-d2655b81c21c">
 
 <p>
@@ -19,7 +19,7 @@
 <br>
 
 <b>Qualifications:</b>
-  - currently none :)
+  - INF.02 
 <br>
 
 <b>Achievements:</b>
