@@ -14,6 +14,7 @@
   - CMD
   - HTML
   - CSS
+  - C/C++ (learning)
   - JavaScript (learning)
   - Bash (learning)
 <br>
@@ -31,8 +32,8 @@
   - Intel&reg; Core&trade; i5-11600K
   - NVIDIA&reg; GeForce&trade; GTX 1660 Ti
   - 16GB DDR4 RAM (3200 MHz)
-  - 1.5TB storage
-  - Windows 10 Pro
+  - 2.5TB storage
+  - Arch Linux / Windows 10 Pro
 <br>
 
 <b>Contact:</b>
