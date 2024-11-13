@@ -48,3 +48,11 @@ And ***I use Arch btw***.
 <a href="https://github.com/tomeczeklmaooo/yarpl/">𝚢𝚊𝚛𝚙𝚕</a><span>&nbsp;&ndash;&nbsp;a stupid programming language I'm trying to develop to learn something more about C programming and how to not suck at it.</span><br><br>
 
 *Nothing more.*
+#
+
+<div align="center">
+  <em>
+    "Seek the roses along the way, just beware of the thorns"<br>
+    ~ Scorpions - Send Me An Angel (1990)
+  </em>
+</div>
