@@ -45,7 +45,7 @@ And ***I use Arch btw***.
 
 <h1 align="center">𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h1>
 <br>
-<a href="https://github.com/tomeczeklmaooo/yarpl/">𝚢𝚊𝚛𝚙𝚕</a><span>&nbsp;&ndash;&nbsp;a stupid programming language I'm trying to develop to learn something more about C programming and how to not suck at it.</span><br><br>
+<a href="https://github.com/tomeczeklmaooo/pocket/">𝚙𝚘𝚌𝚔𝚎𝚝</a><span>&nbsp;&ndash;&nbsp;money tracking terminal app</span><br><br>
 
 *Nothing more.*
 #
